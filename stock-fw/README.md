@@ -1,1 +1,1 @@
-
+# Stock firmware storage
