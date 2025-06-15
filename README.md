@@ -1,12 +1,12 @@
 # Kobra 3 stock firmware history
 
-## Available downloads
-- [2.4.0.4](/stock-fw/2.4.0.4.swu)
-- [2.4.0](/stock-fw/2.4.0.swu)
-- [2.3.7.1](/stock-fw/2.3.7.1.swu)
-- [2.3.5.3](/stock-fw/2.3.5.3.swu)
+## Available downloads (Descending)
+- [2.4.0.4](https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.4.0.4.swu?download=)
+- [2.4.0](https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.4.0.swu?download=)
+- [2.3.7.1]https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.3.7.1.swu?download=)
+- [2.3.5.3](https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.3.5.3.swu?download=)
 
-## External CDNs
+## External CDNs (Descending)
 - [2.3.9.3](https://cdn.cloud-universe.anycubic.com/attachment/1914230240231297026_ytyaqhan.swu)
 - [2.3.8.9](https://cdn.cloud-universe.anycubic.com/attachment/1909196710861758465_ildzyita.swu)
 - [2.3.8](https://cdn.cloud-universe.anycubic.com/attachment/1900477453028659201_ilsgp06v.swu)
