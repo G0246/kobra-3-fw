@@ -1,7 +1,7 @@
 # Kobra 3 stock firmware history
 
 ## Available downloads (Descending)
-[a](/stock-fw/2.4.0.4.swu?download=)
+[TEMP](/stock-fw/2.4.0.4.swu?download=)
 - [2.4.0.4](https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.4.0.4.swu?download=)
 - [2.4.0](https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.4.0.swu?download=)
 - [2.3.7.1](https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.3.7.1.swu?download=)
