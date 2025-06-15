@@ -1,5 +1,8 @@
 # Kobra 3 stock firmware history
 
+> [!CAUTION]
+> **THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, USE AT YOUR OWN RISK.**
+
 ## Available downloads (Descending)
 - [2.4.0.4](https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.4.0.4.swu?download=)
 - [2.4.0](https://github.com/G0246/kobra-3-fw/raw/refs/heads/main/stock-fw/2.4.0.swu?download=)
